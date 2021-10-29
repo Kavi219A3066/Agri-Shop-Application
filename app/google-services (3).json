@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033360038599",
+    "project_id": "agrisstore",
+    "storage_bucket": "agrisstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033360038599:android:ca4d877e9d231f43703ce2",
+        "android_client_info": {
+          "package_name": "com.example.agrisstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033360038599-ttb9dmbvr0v01vgfpvn1gk8r1u15fkn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGYYhYcJaFLvYxi0EMnKVYmNayuwyBfs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033360038599-ttb9dmbvr0v01vgfpvn1gk8r1u15fkn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
